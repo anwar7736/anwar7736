@@ -43,8 +43,10 @@ I'm **Md Anwar Hossain**, a passionate **Software Engineer** from Bangladesh. I 
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anwarhossain-dev&show_icons=true&theme=radical)  
+## 📊 GitHub Quick Stats
+![Followers](https://img.shields.io/github/followers/anwar7736?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/anwar7736?label=Stars&style=social)
+[Top languages](https://github.com/anwar7736?tab=repositories) *(click to view languages per repo)*
 
 ---
 
