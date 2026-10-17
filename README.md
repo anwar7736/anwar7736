@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Md Anwar Hossain**, a passionate **Software Engineer** from Bangladesh. I specialize in **Laravel, React.js, Next.js, and PHP**. I love building **scalable web applications, REST APIs, and modern web interfaces**.  
+I'm **Md Anwar Hossain**, a passionate **AI Enabled Software Engineer** from Bangladesh. I specialize in **Laravel, React.js, Next.js, Docker, Kubernetes, AWS, Digital Ocean, Hostinger, AI Automation, CI/CD Pipelines etc**. I love building **scalable web applications, REST APIs, integrate AI Automation and modern web interfaces**.  
 
 ---
 
